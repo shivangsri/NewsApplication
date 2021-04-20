@@ -2,8 +2,4 @@
 
 
 
-This app displays latest news using News API. 
-Retrofit is used to parse JSON response from API. 
-CardView is used for displaying news. 
-One can search news using keyword. 
-On clicking news a detailed news page will open.
+
